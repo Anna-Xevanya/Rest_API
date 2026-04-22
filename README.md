@@ -36,3 +36,5 @@
 | **POST** | `/api/akademik/siswa` | Menambahkan data siswa baru (CRUD). |
 | **PUT** | `/api/akademik/siswa/{id}` | Memperbarui data siswa yang sudah ada (CRUD). |
 | **DELETE** | `/api/akademik/siswa/{id}` | Menghapus data siswa dari database (CRUD). |
+
+**LINK VIDEO : https://youtu.be/UEDryL9kGpg**
